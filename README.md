@@ -3,7 +3,7 @@
 将Shellcode隐写到正常BMP图片中，把字符串拆成字节，写入每个像素的alpha通道中，然后上传到可信任的网站下偏移拼接shellcode进行远程动态加载，能有效地增加了免杀性和隐匿性。
 
 ### 0x02 未开源
-![](https://www.yunzhijia.com/microblog/filesvr/5fd4770ce602080001f63145)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20201212155154.png)
 
 ### 0x02 参考链接
 
