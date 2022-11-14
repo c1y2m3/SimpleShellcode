@@ -11,3 +11,6 @@ https://www.cnblogs.com/Matrix_Yao/archive/2009/12/02/1615295.html
 https://blog.csdn.net/qq78442761/article/details/54880328
 
 https://github.com/loyalty-fox/idshwk7
+
+## 0x03 注意事项
+本人已失业多年，已不从事红队攻防，溯源请手下留情！
